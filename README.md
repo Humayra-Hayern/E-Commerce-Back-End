@@ -1,6 +1,6 @@
 # 13) ORM: E-Commerce-Back-End
 
-For this project I had to build the back end for an e-commerce site by modifying starter code. Utilised Express.js to use Sequelize to interact with a MySQL database. I utilised the following technologies:
+For this project I had to build the back end for an e-commerce site by modifying starter code. Utilised Express.js to use Sequelize to interact with a MySQL database. I utilised the following technologies for this project:
 
 - Javascript
 - Node.js
