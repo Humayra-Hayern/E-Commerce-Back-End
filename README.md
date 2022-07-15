@@ -39,9 +39,15 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Instructions
 
 Make sure all dependencies are installed by typing ``` npm i ``` in the console.
+
 Then enter ``` source db/schema.sql ``` into the MySQL shell.
+
 Then return to the console and type ``` npm run seed ``` to seed the example data into the database.
+
 Finally to start the server, type ``` npm start ``` into the console.
+
+## Demo
+
 
 ## Credits
 
