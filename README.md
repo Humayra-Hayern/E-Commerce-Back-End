@@ -38,6 +38,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Instructions
 
+Ensure Mysql is installed and running on your system.
+
 Make sure all dependencies are installed by typing ``` npm i ``` in the console.
 
 Then enter ``` source db/schema.sql ``` into the MySQL shell.
@@ -47,6 +49,11 @@ Then return to the console and type ``` npm run seed ``` to seed the example dat
 Finally to start the server, type ``` npm start ``` into the console.
 
 ## Demo
+* Start Server: https://drive.google.com/file/d/18HMX2w6LBDg9dsgdfZMq6Nf4rjkCNYAW/view
+* Categories Routes: https://drive.google.com/file/d/1SOXLdVLslOpK-dmGodV3Cpz-q7W9mbFR/view
+* Products Routes: https://drive.google.com/file/d/1zj_9BNVX2Bok9Zj8e5tsL2F--ZPLoY8E/view
+* Tags Routes: https://drive.google.com/file/d/1n6xaC-m7sgQohGWjYd2flX0nYjexFltx/view
+* All Routes (use case example): https://drive.google.com/file/d/1W916iMKN33wU_ckyxfX7uboluIvCVpdt/view
 
 
 ## Credits
